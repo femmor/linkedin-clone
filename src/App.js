@@ -15,12 +15,9 @@ function App() {
       {/* App Body */}
       <div className="app__body">
         <Sidebar/>
-        {/* <Feed/>
-        <Widget/> */}
+        <Feed/>
+        {/* <Widget/>  */}
       </div>
-        {/* Feed - middle */}
-        {/* Widget - right */}
-      
     </div>
   );
 }

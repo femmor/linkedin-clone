@@ -3,15 +3,21 @@ import './App.css';
 
 // Components
 import Header from "./components/header/Header"
+import Sidebar from './components/sidebar/Sidebar';
+import Feed from './components/feed/Feed';
+import Widget from './components/widget/Widget';
 
 function App() {
   return (
     <div className="app">
-      {/* Header */}
       <Header/>
 
       {/* App Body */}
-        {/* Sidebar - left */}
+      <div className="app__body">
+        <Sidebar/>
+        {/* <Feed/>
+        <Widget/> */}
+      </div>
         {/* Feed - middle */}
         {/* Widget - right */}
       

@@ -53,3 +53,36 @@
     justify-content: space-between;
     margin: 5px 0;
 }
+
+.feed__separator {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.feed__separatorBorder {
+    flex: 0.8;
+    
+}
+
+.feed__separatorBorder hr {
+    color: rgb(226, 226, 226);
+    width: 95%
+}
+
+.feed__separatorSorter {
+    display: flex;
+    gap: 4px;
+    align-items: center;
+    flex: 0.2;
+    margin-right: -10px;
+}
+
+.feed__separatorSorterSortBy {
+    font-size: 12px;
+    color: gray;
+}
+
+.feed__separatorSorterText {
+    font-size: 12px;
+}

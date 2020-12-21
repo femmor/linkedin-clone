@@ -9,7 +9,6 @@ import PeopleIcon from '@material-ui/icons/People';
 import WorkIcon from '@material-ui/icons/Work';
 import QuestionAnswerIcon from '@material-ui/icons/QuestionAnswer';
 import NotificationsActiveIcon from '@material-ui/icons/NotificationsActive';
-import PersonOutlineIcon from '@material-ui/icons/PersonOutline';
 import AppsIcon from '@material-ui/icons/Apps';
 import CreateNewFolderIcon from '@material-ui/icons/CreateNewFolder';
 

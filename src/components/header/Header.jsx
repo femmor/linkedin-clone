@@ -16,7 +16,7 @@ const Header = () => {
     return (
         <div className="header">
             <div className="header__left">
-                <img src="https://www.flaticon.com/svg/static/icons/svg/720/720237.svg" alt=""/>
+                <img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt=""/>
                 <div className="header__search">
                     {/* Search Icon */}
                     <SearchIcon/>
